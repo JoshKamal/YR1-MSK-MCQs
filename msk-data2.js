@@ -283,9 +283,7 @@ const mskData2 = [
       "Incorrect: Professional ethics remained essential throughout the pandemic."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which fundamental aspect of medical professionalism was first established with the Royal College of Physicians' founding in 1518?",
     "options": [
@@ -380,9 +378,7 @@ const mcqs = [
       "Incorrect: Corporate influence is relevant but does not define moral injury."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which fundamental principle of Good Medical Practice ensures doctors involve patients in decisions about their care?",
     "options": [
@@ -477,9 +473,7 @@ const mcqs = [
       "Incorrect: Hierarchies still exist, albeit with evolving dynamics."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which historical milestone marked the formal recognition of physicians as professionals in the UK?",
     "options": [
@@ -574,8 +568,7 @@ const mcqs = [
       "Incorrect: Technology became more vital rather than being reduced."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
+  },
 {
   "question": "Which concept best explains how families act as informal caregivers in society?",
   "options": [
