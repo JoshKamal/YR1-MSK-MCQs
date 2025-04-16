@@ -1,4 +1,4 @@
-questions.push(...bcrData1, ...bcrData2, ...bcrData3, ...bcrData4);
+questions.push(...mskData1, ...mskData2);
 
 
 let currentQuestionIndex = 0;
