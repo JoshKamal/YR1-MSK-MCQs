@@ -361,16 +361,6 @@ const mskData1 = [
   "slideLink": "Lecture1_MSK.pdf"
 },
 {
-  "question": "Which lymph nodes receive drainage from the superior portion of the mammary gland?",
-  "options": [
-    "A) Humeral nodes",
-    "B) Pectoral nodes",
-    "C) Central nodes",
-    "D) Apical nodes",
-    "E) Subscapular nodes"
-  ],
-  "correctIndex": 3,
-  "explanations{
   "question": "Which artery arises from the third part of the axillary artery and passes through the triangular space?",
   "options": [
     "A) Thoracoacromial artery",
