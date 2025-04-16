@@ -722,16 +722,6 @@ const mskData1 = [
   "slideLink": "Lecture2_MSK.pdf"
 },
 {
-  "question": "Why is endosteum critical for bone remodeling?",
-  "options": [
-    "A) It enables osteoclasts and osteoblasts to work in tandem within bone cavities",
-    "B) It prevents excessive bone resorption by osteoclasts",
-    "C) It serves as the primary site for osteocyte differentiation",
-    "D) It directly anchors tendons and ligaments to bone",
-    "E) It limits vascular infiltration into the bone marrow"
-  ],
-  "correctIndex": 0,
-  "explanations{
   "question": "Which feature of hyaline cartilage contributes to its role in reducing friction at joint surfaces?",
   "options": [
     "A) Presence of elastic fibers in the matrix",
