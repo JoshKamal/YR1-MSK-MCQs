@@ -93,9 +93,7 @@ const mskData2 = [
       "Incorrect: Patient partnership is explicitly addressed in the Sponsio Academica."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which historical document first established explicit ethical guidelines for physicians?",
     "options": [
