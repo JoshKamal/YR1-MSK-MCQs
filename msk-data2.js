@@ -188,9 +188,7 @@ const mskData2 = [
       "Incorrect: A specific domain of Good Medical Practice does include safeguarding vulnerable patients."
     ],
     "slideLink": "Lecture11_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which historical development led to the first formal regulation of medical practice in the UK?",
     "options": [
