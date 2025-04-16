@@ -5090,8 +5090,7 @@ const mskData1 = [
       "Incorrect: Not all osteoporotic fractures require surgical intervention."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
+  },
 {
   "question": "Which spinal curvature develops as the first secondary curve in human development?",
   "options": [
