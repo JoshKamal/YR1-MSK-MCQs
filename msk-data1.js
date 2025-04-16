@@ -4521,7 +4521,6 @@ const mskData1 = [
   ],
   "slideLink": "Lecture8_MSK.pdf"
 },
-const mcqs = [
   {
     "question": "What is the primary pathological process in osteoporosis that leads to increased fracture risk?",
     "options": [
@@ -4616,9 +4615,7 @@ const mcqs = [
       "Incorrect: Previous fractures indicate high risk but are not modifiable."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which of the following mechanisms is responsible for bone remodeling?",
     "options": [
@@ -4713,9 +4710,7 @@ const mcqs = [
       "Incorrect: Physical activity helps maintain strength and balance, making avoidance counterproductive."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which of the following best describes the mechanism of action of bisphosphonates in osteoporosis treatment?",
     "options": [
@@ -4810,9 +4805,7 @@ const mcqs = [
       "Incorrect: Hematopoiesis occurs in the bone marrow, but osteocytes do not directly facilitate this process."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which of the following is the primary role of osteoclasts in bone homeostasis?",
     "options": [
@@ -4907,9 +4900,7 @@ const mcqs = [
       "Incorrect: Stretching routines contribute to flexibility but do not directly affect fracture risk."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which process plays a crucial role in the formation of fracture callus during the early stages of fracture healing?",
     "options": [
@@ -5004,9 +4995,7 @@ const mcqs = [
       "Incorrect: Bed rest can worsen osteoporosis and is not a recommended strategy."
     ],
     "slideLink": "Lecture9_MSK.pdf"
-  }
-];
-const mcqs = [
+  },
   {
     "question": "Which of the following best describes the role of estrogen in maintaining bone density?",
     "options": [
