@@ -10,7 +10,7 @@ let lastPracticeIndex = 0;
 let activeQuestions = [...questions]; // mutable copy
 let practiceQuestions = []; // backup of active practice set
 
-const STORAGE_KEY = 'bcrProgress';
+const STORAGE_KEY = 'mskProgress';
 const questionText = document.getElementById("question-text");
 const optionsContainer = document.getElementById("options-container");
 const feedbackBox = document.getElementById("feedback-box");
